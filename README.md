@@ -9,7 +9,7 @@ This repository hosts the **internship report** where I analyzed an optical **li
 I currently don’t have access to the original MATLAB scripts (toolbox versions and files were on a different machine), so I’m publishing the report to document the work and results. If I recover or rewrite the code, I’ll add it here under `/code`.
 
 ## Contents
-- `/report/memoria_practicas.pdf` — final report (Spanish)
+- `/report/report_internship_2023.pdf` — final report (Spanish)
 
 ## Next steps (planned)
 - Recreate a minimal, runnable version of the MATLAB analysis.
