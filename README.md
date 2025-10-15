@@ -1,2 +1,21 @@
 # internship-link-budget-qkd
 Internship report: link budget and qubits-per-second estimation for QKD
+
+# Internship Report — Link Budget & QKD
+
+This repository hosts the **internship report** where I analyzed an optical **link budget** and produced an order-of-magnitude estimate of **qubits per second** for **Quantum Key Distribution (QKD)** scenarios.
+
+## Why only the report?
+I currently don’t have access to the original MATLAB scripts (toolbox versions and files were on a different machine), so I’m publishing the report to document the work and results. If I recover or rewrite the code, I’ll add it here under `/code`.
+
+## Contents
+- `/report/memoria_practicas.pdf` — final report (Spanish)
+
+## Next steps (planned)
+- Recreate a minimal, runnable version of the MATLAB analysis.
+- Provide sample inputs and a short README for reproducibility.
+- Optionally port calculations to Python.
+
+## License
+- Report: © 2025 Rodrigo Kloster Albarracín. All rights reserved.  
+- Code (when added): MIT License (planned).
