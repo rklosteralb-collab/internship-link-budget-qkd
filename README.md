@@ -11,11 +11,3 @@ I currently don’t have access to the original MATLAB scripts (toolbox versions
 ## Contents
 - `/report/report_internship_2023.pdf` — final report (Spanish)
 
-## Next steps (planned)
-- Recreate a minimal, runnable version of the MATLAB analysis.
-- Provide sample inputs and a short README for reproducibility.
-- Optionally port calculations to Python.
-
-## License
-- Report: © 2025 Rodrigo Kloster Albarracín. All rights reserved.  
-- Code (when added): MIT License (planned).
